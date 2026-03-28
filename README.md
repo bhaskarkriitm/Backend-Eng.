@@ -27,3 +27,4 @@ Testing and code quality
 Open API Standard
 Webhooks
 Devops for backend engineers
+Now we upload daily updates here
